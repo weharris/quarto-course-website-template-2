@@ -24,7 +24,7 @@ library(countdown)
 
 ## Meet the professor
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 ![Dr. Mine Çetinkaya-Rundel (she/her)](images/lec-1/mine.png){fig-alt="Headshot of Dr. Mine Çetinkaya-Rundel" fig-align="center" width="200"}
 :::
@@ -34,7 +34,7 @@ library(countdown)
 -   Affiliated Faculty, Computational Media, Arts & Cultures
 -   Find out more at [mine-cr.com](https://mine-cr.com)
 :::
-:::
+:::::
 
 ## Meet the TAs
 
@@ -183,8 +183,7 @@ It is my intent that students from all diverse backgrounds and perspectives be w
 
 -   The [Student Disability Access Office (SDAO)](https://access.duke.edu/students) is available to ensure that students are able to engage with their courses and related assignments.
 
--   I am committed to making all course materials accessible and I'm always learning how to do this better.
-    If any course component is not accessible to you in any way, please don't hesitate to let me know.
+-   I am committed to making all course materials accessible and I'm always learning how to do this better. If any course component is not accessible to you in any way, please don't hesitate to let me know.
 
 # Course policies
 
@@ -203,12 +202,9 @@ It is my intent that students from all diverse backgrounds and perspectives be w
 
 -   Only work that is clearly assigned as team work should be completed collaboratively.
 
--   Homeworks must be completed individually.
-    You may **not** directly share answers / code with others, however you are welcome to discuss the problems in general and ask for advice.
+-   Homeworks must be completed individually. You may **not** directly share answers / code with others, however you are welcome to discuss the problems in general and ask for advice.
 
--   Exams must be completed individually.
-    You may **not** discuss any aspect of the exam with peers.
-    If you have questions, post as private questions on the course forum, only the teaching team will see and answer.
+-   Exams must be completed individually. You may **not** discuss any aspect of the exam with peers. If you have questions, post as private questions on the course forum, only the teaching team will see and answer.
 
 ## Sharing / reusing code policy
 
@@ -244,8 +240,7 @@ Ask if you're not sure if something violates a policy!
 
 ## Learning during a pandemic
 
-I want to make sure that you learn everything you were hoping to learn from this class.
-If this requires flexibility, please don't hesitate to ask.
+I want to make sure that you learn everything you were hoping to learn from this class. If this requires flexibility, please don't hesitate to ask.
 
 ::: incremental
 -   You never owe me personal information about your health (mental or physical) but you're always welcome to talk to me. If I can't help, I likely know someone who can.
