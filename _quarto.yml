@@ -27,7 +27,7 @@ website:
     pinned: true
     align: center
     tools:
-      - icon: amazon
+      - icon: 
         href: https://github.com/sta210-s22
         text: "GitHub organization"
       - icon: code-square
