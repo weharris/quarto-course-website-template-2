@@ -7,6 +7,10 @@
 - website background: #D9E3E4
 - headings: #5B888C
 
+## Icons
+Quarto Icons are from Bootstrap
+https://icons.getbootstrap.com/
+
 ## Attribution
 
 Much of the content is based on [STA 210 - Fall 2021](https://github.com/sta210-fa21/) by Dr. Maria Tackett.
