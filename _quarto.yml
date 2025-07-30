@@ -17,8 +17,8 @@ website:
     image: "images/twitter-card.png"
 
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2022, Mine Çetinkaya-Rundel"
+    right: "Built with 🚀 [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2025, W. Edwin Harris"
     background: "#D9E3E4"
 
   sidebar:
