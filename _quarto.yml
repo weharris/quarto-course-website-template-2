@@ -33,9 +33,9 @@ website:
         text: "Course GitHub repo"
       - icon: youtube
         href: https://cmgr.oit.duke.edu/containers
-        text: "Course YouTube channel"
+        text: "YouTube"
       - icon: discord
-        text: "Discord"
+        text: "Join our Discord"
         menu:
           - text: Discussion forum
             url: https://sakai.duke.edu/portal/site/779c3ebe-3b88-4bcc-bd01-1813e8396a23/tool/13b6446a-a6c6-4222-8cfb-c36d1f70802b
