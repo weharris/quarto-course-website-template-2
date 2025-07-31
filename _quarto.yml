@@ -52,7 +52,7 @@ website:
     contents:
       - href: index.qmd
         text: Welcome!
-      - href: schedule.qmd
+      - href: course-schedule.qmd
         text: Schedule
       - section: "Course information"
         contents:
