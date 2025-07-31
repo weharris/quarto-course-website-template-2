@@ -30,12 +30,12 @@ website:
     tools:
       - icon: github
         href: https://github.com/sta210-s22
-        text: "GitHub organization"
-      - icon: code-square
+        text: "Course GitHub repo"
+      - icon: youtube
         href: https://cmgr.oit.duke.edu/containers
-        text: "RStudio Containers"
-      - icon: person-fill
-        text: "Sakai"
+        text: "Course YouTube channel"
+      - icon: discord
+        text: "Discord"
         menu:
           - text: Discussion forum
             url: https://sakai.duke.edu/portal/site/779c3ebe-3b88-4bcc-bd01-1813e8396a23/tool/13b6446a-a6c6-4222-8cfb-c36d1f70802b
