@@ -50,12 +50,10 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - href: test.qmd
-        text: Test Page
+      - href: welcome.qmd
+        text: Welcome!
       - section: "Course information"
         contents:
-          - href: course-overview.qmd
-            text: Overview
           - href: course-syllabus.qmd
             text: Syllabus
           - href: course-support.qmd
