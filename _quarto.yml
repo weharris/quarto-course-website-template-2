@@ -3,8 +3,8 @@ project:
 
 website:
   page-navigation: true
-  title: "STA 210 - Spring 2022"
-  description: "Homepage for STA 210 - Regression Analysis at Duke University, Spring 2022."
+  title: "Course title"
+  description: "Course description"
   site-url: "https://sta210-s22.github.io/website/"
   favicon: "images/favicon.ico"
 
