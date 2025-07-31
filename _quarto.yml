@@ -18,8 +18,9 @@ website:
     image: "images/twitter-card.png"
 
   page-footer:
+    left: "&copy; 2025 [W. Edwin Harris](https://weharris.me)"
+    center: "STA 210 - Spring 2022"
     right: "Built with 🚀 [Quarto](https://quarto.org/)."
-    left: "&copy; 2025 W. Edwin Harris"
     background: "#D9E3E4"
 
   sidebar:
