@@ -3,11 +3,13 @@ title: "Syllabus"
 tbl-colwidths: [5,20,5,5,5,5,5,5,5]
 ---
 
+## Schedule
+
 This schedule is an outline of the topics, content, and assignments. Note that this may be updated as the module progresses.
 
-::: column-screen-inset-right
+::: column-body
 | Week | Topic | Notes | Slides | Tutorial | HW |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
 | 1 | Topic 1 |  | [🖥️](/slides/lab-0.html "Lab slides"){aria-label="Lab 0 slides"} [💻](/labs/lab-0.html "Lab instructions"){aria-label="Lab 0 instructions"} |  |  |
 | 2 | Topic 2 | [📖](/weeks/week-1.html#prepare){aria-label="Week 1 summary"} | [🖥️](/slides/lec-1.html "Lecture slides"){aria-label="Lecture 1 slides"} |  |  |
 | 3 | Topic 3 |  | [🖥️](/slides/lab-1.html "Lab slides"){aria-label="Lab 1 slides"} [💻](/labs/lab-1.html "Lab instructions"){aria-label="Lab 1 instructions"} |  |  |
