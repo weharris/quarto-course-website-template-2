@@ -32,9 +32,10 @@ website:
         href: https://github.com/sta210-s22
         text: "Course GitHub repo"
       - icon: youtube
-        href: https://cmgr.oit.duke.edu/containers
+        href: https://youtube.com/@TheStatisticsLab
         text: "YouTube"
       - icon: discord
+        href: https://discord.gg/dnNTE6xhhu
         text: "Join our Discord"
         menu:
           - text: Discussion forum
