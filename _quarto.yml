@@ -65,6 +65,8 @@ website:
             text: Useful links
           - href: course-faq.qmd
             text: FAQ
+      - href: test.qmd
+        text: Test Page
       - section: "Computing"
         contents:
           - href: computing-access.qmd
