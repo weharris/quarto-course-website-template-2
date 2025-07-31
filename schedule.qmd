@@ -5,7 +5,7 @@ tbl-colwidths: [5,20,5,5,5,5,5,5,5]
 
 This schedule is an outline of the topics, content, and assignments. Note that this may be updated as the module progresses.
 
-::: column-page
+::: column-screen-inset-right
 | Week | Topic | Notes | Slides | Tutorial | HW |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | 1 | Topic 1 |  | [🖥️](/slides/lab-0.html "Lab slides"){aria-label="Lab 0 slides"} [💻](/labs/lab-0.html "Lab instructions"){aria-label="Lab 0 instructions"} |  |  |
@@ -22,8 +22,6 @@ This schedule is an outline of the topics, content, and assignments. Note that t
 knitr::knit_exit()
 ```
 
-::: column-page
 |   |   |   | Prepare | Slides | AE | Labs | HW | Exam | Project |
 |--------|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | Week | Date | Topic | 📖 | 🖥️ | 📋 | [💻](https://sakai.duke.edu/samigo-app/servlet/Login?id=6fa7ebf3-01af-42a6-91ba-3e813d3901221641094171786) | ✍️ | ✅ | 📂 |
-:::

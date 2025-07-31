@@ -29,24 +29,3 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
   background-size: 1em;
   background-position: 1em 0.5em;
 }
-
-/* Custom table width classes */
-.table-narrow {
-  max-width: 60%;
-  margin: 0 auto;
-}
-
-.table-medium {
-  max-width: 80%;
-  margin: 0 auto;
-}
-
-.table-wide {
-  max-width: 95%;
-  margin: 0 auto;
-}
-
-.table-responsive {
-  overflow-x: auto;
-  max-width: 100%;
-}
