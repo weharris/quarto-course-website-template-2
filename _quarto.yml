@@ -54,7 +54,7 @@ website:
         text: Welcome!
       - href: page-schedule.qmd
         text: Schedule
-      - section: "Course information"
+      - section: "Module info"
         contents:
           - href: course-syllabus.qmd
             text: Syllabus
