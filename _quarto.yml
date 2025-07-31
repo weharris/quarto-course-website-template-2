@@ -49,6 +49,8 @@ website:
     search: true
     collapse-level: 1
     contents:
+      - href: test.qmd
+        text: Test Page
       - section: "Course information"
         contents:
           - href: course-overview.qmd
@@ -65,8 +67,6 @@ website:
             text: Useful links
           - href: course-faq.qmd
             text: FAQ
-      - href: test.qmd
-        text: Test Page
       - section: "Computing"
         contents:
           - href: computing-access.qmd
