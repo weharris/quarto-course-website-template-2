@@ -1,9 +1,7 @@
 ---
-title: "Syllabus"
+title: "Schedule"
 tbl-colwidths: [5,20,5,5,5,5,5,5,5]
 ---
-
-## Schedule
 
 This schedule is an outline of the topics, content, and assignments. Note that this may be updated as the module progresses.
 
