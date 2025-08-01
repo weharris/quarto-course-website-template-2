@@ -184,7 +184,7 @@ ikea <- read_csv("data/ikea.csv")
 The variable definitions are as follows:
 
 | variable | class | description |
-|-------------|-------------|-----------------------------------------------|
+|---------------|---------------|------------------------------------------|
 | `item_id` | double | item id which can be used later to merge with other IKEA data frames |
 | `name` | character | the commercial name of items |
 | `category` | character | the furniture category that the item belongs to (Sofas, beds, chairs, Trolleys,...) |
