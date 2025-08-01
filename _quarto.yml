@@ -45,7 +45,7 @@ website:
     contents:
       - href: index.qmd
         text: Welcome!
-      - href: page-schedule.qmd
+      - href: module-schedule.qmd
         text: Schedule
       - href: module-syllabus.qmd
         text: Syllabus
