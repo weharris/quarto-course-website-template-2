@@ -56,7 +56,7 @@ website:
         text: Schedule
       - section: "Module info"
         contents:
-          - href: course-syllabus.qmd
+          - href: module-syllabus.qmd
             text: Syllabus
           - href: course-support.qmd
             text: Support
