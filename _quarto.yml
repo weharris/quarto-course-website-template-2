@@ -47,14 +47,12 @@ website:
         text: Welcome!
       - href: page-schedule.qmd
         text: Schedule
-      - section: "Module info"
-        contents:
-          - href: module-syllabus.qmd
-            text: Syllabus
-          - href: module-links.qmd
-            text: Useful links
-          - href: module-faq.qmd
-            text: FAQ
+      - href: module-syllabus.qmd
+        text: Syllabus
+      - href: module-links.qmd
+        text: Useful links
+      - href: module-faq.qmd
+        text: FAQ
 
 format:
   html:
